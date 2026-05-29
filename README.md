@@ -8,14 +8,12 @@
 
 ```
 @article{zhang2023tci,
-  title    =  {Neuromorphic Imaging with Density-Based Spatiotemporal Denoising},
-  author   =  {Pei Zhang and Zhou Ge and Li Song and Edmund Y. Lam},
-  journal  =  {IEEE Transactions on Computational Imaging},
-  volume   =  {9},
-  pages    =  {530--541},
-  month    =  {May},
-  year     =  {2023},
-  doi      =  {10.1109/TCI.2023.3281202}
+  title   = {Neuromorphic Imaging with Density-Based Spatiotemporal Denoising},
+  author  = {Pei Zhang and Zhou Ge and Li Song and Edmund Y. Lam},
+  journal = {IEEE Transactions on Computational Imaging},
+  volume  = {9}, pages = {530--541},
+  year    = {2023}, month = {May},
+  doi     = {10.1109/TCI.2023.3281202}
 }
 ```
 
