@@ -18,8 +18,6 @@
 }
 ```
 
-![Demo](./imgs/demo.gif)
-
 ## Implementation
 Run the denoising demo on a directory of event files:
 ```bash
